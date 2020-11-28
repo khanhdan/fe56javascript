@@ -334,6 +334,8 @@ function changeColor2(mess, classes){
 
      })
 
+     
+     
      function themNguoiDung(){
-         console.log("dan themNguoiDung");
+         console.log("thy themNguoiDung");
      }
